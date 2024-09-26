@@ -1,4 +1,16 @@
-“Body Mass Index (BMI) --------------------- **BMI** (Body Mass Index) is a widely-used metric that assesses a person's body weight relative to their height. It provides a simple calculation that helps estimate overall body tissue mass and categorizes individuals into four groups: **underweight**, **normal weight**, **overweight**, or **obese**, based on predefined ranges. BMI serves as a general health indicator to determine if an individual's weight is within a healthy range for their height.”
+# fast_jo_u
 
+A Flutter project for user
 
+## Getting Started
 
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
